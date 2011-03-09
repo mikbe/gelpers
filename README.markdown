@@ -4,7 +4,7 @@ Demonstrates how to easily share helper methods between RSpec and Cucumber.
 
 ### Screencast
 
-This source code goes with the screencast available here:
+This source code goes with the screencast available here:  
 <a href="http://mikbe.tk/2011/03/09/sharing-helper-methods/">http://mikbe.tk/2011/03/09/sharing-helper-methods/</a>
 
 ### Website
